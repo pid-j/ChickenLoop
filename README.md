@@ -39,4 +39,9 @@ You can also use the `Packager.py` file to compress other decompressed `.sb3` fi
 ChickenLoop cannot be imported into the Scratch website, as it is too large.
 However, ChickenLoop can be imported into the Scratch/Turbowarp offline app.
 
+You can also use the [ChickenLoop loader](https://turbowarp.org/?project_url=https://raw.githubusercontent.com/pid-j/ChickenLoop/refs/heads/main/ChickenLoop-loader.sb3)
+to load ChickenLoop through a WiFi connection. You can use ChickenLoop on the web this way.
+Once it has finished loading, you can download it. For sharing, share the loader **BEFORE**
+ChickenLoop was loaded, or redownload the loader.
+
 ChickenLoop can later be packaged with the Turbowarp Packager to one's platform of choice.
