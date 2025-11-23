@@ -28,11 +28,15 @@ To compile ChickenLoop manually, clone the `src` branch, zip all the files in th
 
 #### Automatic Compilation (Packaging)
 
-To compile ChickenLoop automatically, clone the `src` branch, and download the `Packager.py` file. Drop this file into the folder where the assets are located (where you cloned the `src` branch). Execute the file, and let it do its thing.
+To compile ChickenLoop automatically, clone the `src` branch, and download the `Packager.py` file
+Drop this file into the folder where the assets are located (where you cloned the `src` branch).
+Execute the file, and let it do its packaging (it shouldn't take long).
+
+You can also use the `Packager.py` file to compress other decompressed `.sb3` files.
 
 ## Usage
 
 ChickenLoop cannot be imported into the Scratch website, as it is too large.
 However, ChickenLoop can be imported into the Scratch/Turbowarp offline app.
 
-ChickenLoop can later be packaged with the Turbowarp Packager.
+ChickenLoop can later be packaged with the Turbowarp Packager to one's platform of choice.
