@@ -1,3 +1,5 @@
+# ChickenLoop
+
 ChickenLoop is a Scratch project that contains a cuckooing chicken [from Wikipedia](https://en.wikipedia.org/wiki/File:Rooster_crowing_small.ogv).
 
 ## Licensing
