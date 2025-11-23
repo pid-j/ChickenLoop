@@ -26,10 +26,9 @@ You can compile ChickenLoop in two ways: **manually** or **automatically**.
 To compile ChickenLoop manually, clone the `src` branch, zip all the files in the directory, and change the `.zip` to `.sb3`.
 **MAKE SURE** that the top level directory is the one with all of the resources.
 
-#### Automatic Compilation
+#### Automatic Compilation (Packaging)
 
-To compile ChickenLoop automatically, clone the `src` branch, and download the `Compiler.py` file. Drop this file into the folder
-where the assets are located. Execute the file, and let it do its thing. You can also use `Compiler.sh` instead if you want.
+To compile ChickenLoop automatically, clone the `src` branch, and download the `Packager.py` file. Drop this file into the folder where the assets are located (where you cloned the `src` branch). Execute the file, and let it do its thing.
 
 ## Usage
 
